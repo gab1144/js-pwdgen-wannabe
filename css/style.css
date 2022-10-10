@@ -1,0 +1,17 @@
+h1 {
+  margin-bottom: 75px;
+}
+
+.row.content {
+  margin: auto auto;
+  width: fit-content;
+  height: fit-content;
+}
+
+.row.content .col {
+  padding: 50px;
+}
+
+.height-100vh {
+  height: 100vh;
+}
